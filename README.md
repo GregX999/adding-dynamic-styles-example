@@ -2,6 +2,11 @@
 
 This is the example project that goes with my blog post here: [www.99linesofcode.com](http://www.99linesofcode.com/)
 
+The three main files to look at are:
+`/src/index.js`
+`/src/styleSheets.js`
+`/src/CrazyText.js`
+
 If you clone it, just be sure you have npm installed and run it with: `npm start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
