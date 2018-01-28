@@ -1,6 +1,6 @@
 ## Example of creating dynamic styles (classes, keyframes, etc.) in React without using extra plug-ins.
 
-This is the example project that goes with my blog post here: [www.99linesofcode.com](http://www.99linesofcode.com/)
+This is the example project that goes with my blog post here: [www.99linesofcode.com/dynamically-adding-css-in-react](http://www.99linesofcode.com/dynamically-adding-css-in-react)
 
 The three main files to look at are:
 `/src/index.js`
